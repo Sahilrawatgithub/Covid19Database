@@ -4,7 +4,7 @@ This repository contains a structured SQL file designed to create and manage a r
 
 ## 📂 Contents
 
-- `covid19_schema.sql` — SQL file containing the schema definition and sample data.
+- `CovidDatabase.sql` — SQL file containing the schema definition and sample data.
 
 ## 🧱 Database Features
 
@@ -24,7 +24,7 @@ This repository contains a structured SQL file designed to create and manage a r
    ```
 2. Import the SQL file into your preferred SQL database system (e.g., MySQL, PostgreSQL).
    ```bash
-   mysql -u your_username -p database_name < covid19_schema.sql
+   mysql -u your_username -p database_name < CovidDatabase.sql
    ```
 
 ## 💡 Use Cases
@@ -35,7 +35,7 @@ This repository contains a structured SQL file designed to create and manage a r
 
 ## 🛠️ Tools Used
 
-- SQL (MySQL/PostgreSQL-compatible syntax)
+- SQL (MSSQL/MySQL/PostgreSQL-compatible syntax)
 
 ## 📄 License
 
