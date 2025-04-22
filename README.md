@@ -20,8 +20,7 @@ This repository contains a structured SQL file designed to create and manage a r
 
 1. Clone the repository:
    ```bash
-  git clone https://github.com/Sahilrawatgithub/Covid19Database.git
-
+   git clone https://github.com/Sahilrawatgithub/Covid19Database.git
    ```
 2. Import the SQL file into your preferred SQL database system (e.g., MySQL, PostgreSQL).
    ```bash
